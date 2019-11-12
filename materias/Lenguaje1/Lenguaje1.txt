@@ -1,0 +1,2 @@
+materias/Lenguaje1/agudas.jpg
+materias/Lenguaje1/graves.jpg
