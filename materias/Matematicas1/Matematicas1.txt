@@ -1,2 +1,0 @@
-materias/Matematicas1/seno.png
-materias/Matematicas1/cuadratica.png
