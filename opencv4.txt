@@ -1,2 +1,3 @@
 https://solarianprogrammer.com/2019/09/17/install-opencv-raspberry-pi-raspbian-cpp-python-development/
 sudo apt-get install libopencv-dev python3-opencv
+https://www.alatortsev.com/2018/09/05/installing-opencv-3-4-3-on-raspberry-pi-3-b/
