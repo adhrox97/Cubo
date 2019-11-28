@@ -5,4 +5,5 @@ sudo apt-get install python-qrtools
 sudo add-apt-repository ppa:qr-tools-developers/daily
 sudo apt-get update
 https://github.com/opencv/opencv/issues/15278
+https://www.enmimaquinafunciona.com/pregunta/170359/ejecutar-un-script-especifico-con-doble-clic
 https://manlinux.000webhostapp.com/crear-ejecutables-doble-click-script/
